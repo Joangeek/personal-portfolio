@@ -37,3 +37,7 @@ let changeText = ()=> {
 };
 changeText();
 setInterval(changeText, 3000)
+
+
+//mix it porfolio section
+var mixer = mixitup('.portfolio-gallery');
