@@ -27,6 +27,8 @@
     --h2-font:3rem;
 }
 
+
+/*---scrollbar style-------*/
 ::-webkit-scrollbar{
     height: 0;
     width: .5rem;
